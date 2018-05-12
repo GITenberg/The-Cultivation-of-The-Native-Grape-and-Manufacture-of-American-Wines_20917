@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9606'
     url: http://www.gutenberg.org/2009/agents/9606
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20917#The-Cultivation-of-The-Native-Grape-and-Manufacture-of-American-Wines
 gutenberg_bookshelf: Crafts
 gutenberg_issued: '2007-03-27'
 gutenberg_type: Text
